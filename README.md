@@ -7,6 +7,6 @@ it consists of tools like:
 4)Domain-Enumeration
 
 
-[!pic](https://github.com/abhichamoli/Reconnaissance_Toolkit/blob/master/ReconSs.png)
+![pic](https://github.com/abhichamoli/Reconnaissance_Toolkit/blob/master/ReconSs.png)
 
 
